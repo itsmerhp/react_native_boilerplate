@@ -23,5 +23,3 @@
 ###### To run unit test
 ##### `yarn test`
 #
-###### Demo credentials
-##### `tatva-retailer@mailinator.com / 123456`
